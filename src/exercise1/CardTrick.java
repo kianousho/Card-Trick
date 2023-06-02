@@ -82,6 +82,7 @@ public class CardTrick {
         
         System.out.println("My career ambitions:");
         System.out.println("-- learn JavaScript");
+	System.out.println("-- do more exercise and get fit");
         System.out.println("-- expand my problem solving abilities");
 	System.out.println("-- being actice on gitHub and make many projects as i can");	
 
